@@ -16,7 +16,6 @@ public class Disponivel implements EstadoLivro {
 
     @Override
     public void devolver(Livro livro) {
-        // transicao invalida - ignora
     }
 
     @Override
