@@ -11,7 +11,6 @@ public class Emprestado implements EstadoLivro {
 
     @Override
     public void emprestar(Livro livro) {
-        // transicao invalida - ignora
     }
 
     @Override
@@ -21,7 +20,6 @@ public class Emprestado implements EstadoLivro {
 
     @Override
     public void reservar(Livro livro) {
-        // transicao invalida - ignora
     }
 
 }

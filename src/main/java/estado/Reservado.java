@@ -16,12 +16,10 @@ public class Reservado implements EstadoLivro {
 
     @Override
     public void devolver(Livro livro) {
-        // transicao invalida - ignora
     }
 
     @Override
     public void reservar(Livro livro) {
-        // transicao invalida - ignora
     }
 
 }
